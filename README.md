@@ -1,6 +1,6 @@
-# auth-task-nestjs-react
+# auth-nestjs-react
 
-# Full Stack Test Task
+# Full Stack Application
 
 ## Overview
 
